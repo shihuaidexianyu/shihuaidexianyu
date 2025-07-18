@@ -11,24 +11,10 @@
             "id": "3f498e4aa023abe9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -164,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,10 +160,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "742b176353ea9f2b",
+  "active": "3f498e4aa023abe9",
   "lastOpenFiles": [
-    "INDEX.md",
+    "心理学/普通心理学/普通心理学.md",
+    "计算机科学/Rust程序设计.md",
     "TODO.md",
+    "INDEX.md",
     "数学/离散数学.md",
     "心理学/生理心理学",
     "计算机科学/数据结构与算法",
@@ -188,7 +176,6 @@
     "数学/高等数学.md",
     "数学/线性代数.md",
     "名词解释.md",
-    "心理学/普通心理学/普通心理学.md",
     "心理学/普通心理学",
     "心理学/image-20241020180404601.png",
     "心理学/image-20241020170245354.png",
@@ -202,7 +189,6 @@
     "心理学/image-20240926142445022.png",
     "心理学/image-20240926142056294.png",
     "普通心理学.md",
-    "计算机科学/Rust程序设计.md",
     "名词解释",
     "draft.md",
     "计算机科学/TODO.md",
