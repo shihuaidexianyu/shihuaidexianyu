@@ -22,18 +22,9 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/shihuaidexianyu/shihuaidexianyu/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contact Me  
 
 - 📧 Email: shihuaidexianyu@gmail.com  
 - 🌐 GitHub: [shihuaidexianyu](https://github.com/shihuaidexianyu)  
-
----
-✨ _Generated with ❤️ by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) & [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
 
 
