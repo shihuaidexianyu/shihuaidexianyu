@@ -1,5 +1,7 @@
 # Hi there, I'm shihuaidexianyu 👋  
 
+
+Peking University psychology student and computer science enthusiast driven to build sentient, emotional AI.
 ---
 
 ## 📊 GitHub Stats
