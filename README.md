@@ -1,7 +1,3 @@
-# Hi there, I'm shihuaidexianyu 👋  
-
-Peking University psychology student and computer science enthusiast driven to build sentient, emotional AI.
----
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shihuaidexianyu&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihuaidexianyu&layout=compact&theme=radical)
