@@ -9,3 +9,7 @@ My current focus is **interpretability of Large Language Models (LLMs)**, with a
 ## Research Interests
 
 * **LLM Interpretability / Mechanistic Interpretability**
+
+## Contact Me 
+-  Email: [gmail](shihuaidexianyu@gmail.com)
+-  GitHub: [shihuaidexianyu](https://github.com/shihuaidexianyu)
