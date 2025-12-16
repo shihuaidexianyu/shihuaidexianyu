@@ -1,11 +1,9 @@
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shihuaidexianyu&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihuaidexianyu&layout=compact&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihuaidexianyu&theme=radical)
----
+## About Me
 
-## 📫 Contact Me  
-- 📧 Email: shihuaidexianyu@gmail.com  
-- 🌐 GitHub: [shihuaidexianyu](https://github.com/shihuaidexianyu)  
+Hi, I’m **shihuaidexianyu**.
+I’m currently studying **Psychology at Peking University** and pursuing a **dual degree in Computer Science and Technology**.
+My current focus is **interpretability of Large Language Models (LLMs)**, with an emphasis on **psycholinguistics** and **machine learning**—especially how model representations relate to human language processing.
 
+## Research Interests
 
+* **LLM Interpretability / Mechanistic Interpretability**
